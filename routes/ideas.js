@@ -40,7 +40,6 @@ router.get('/edit/:id', (req, res) => {
                     idea: idea
                 });
             }
-           
         });
 });
 

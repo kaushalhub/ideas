@@ -4,7 +4,7 @@
   "description": "video idea",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon"
+    "start": "node app.js"
   },
   "author": "kaushal",
   "license": "MIT",
